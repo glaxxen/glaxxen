@@ -16,7 +16,7 @@
 
 ![followers](https://img.shields.io/github/followers/glaxxen?label=Followers&style=flat-square&color=58a6ff) ![status](https://img.shields.io/badge/Status-Open%20to%20Partnerships-2ea043?style=flat-square) ![students](https://img.shields.io/badge/Students%20Taught-500%2B-58a6ff?style=flat-square) ![automations](https://img.shields.io/badge/Automations%20Built-100%2B-bb9af7?style=flat-square)
 
-![tech gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+
 
 ---
 
@@ -87,7 +87,7 @@
 
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=Glaxxen&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Mobile%20%7C%20Game%20Dev%20%7C%20Educator&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn)
 
-
+![tech gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
 
 ### 🎯 *"Automate the repetitive. Build the impactful."*
 
