@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26,50:24283b,100:7aa2f7&amp;height=220&amp;section=header&amp;text=Glaxxen&amp;fontSize=64&amp;fontColor=c0caf5&amp;fontAlignY=36&amp;desc=AI%20Automation%20%7C%20Data%20and%20ML%20%7C%20Cloud%20%7C%20Mobile%20%7C%20Educator&amp;descAlignY=58&amp;descSize=18&amp;descColor=a9b1d6&amp;animation=fadeIn" width="100%" alt="Glaxxen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26,50:24283b,100:7aa2f7&amp;height=220&amp;section=header&amp;text=Glaxxen&amp;fontSize=64&amp;fontColor=c0caf5&amp;fontAlignY=36&amp;desc=AI%20Engineer%20%7C%20Data%20and%20ML%20%7C%20Cloud%20%7C%20Mobile%20%7C%20Educator&amp;descAlignY=58&amp;descSize=18&amp;descColor=a9b1d6&amp;animation=fadeIn" width="100%" alt="Glaxxen" />
   <p>
     <img src="https://img.shields.io/badge/Open%20to-Partnerships-9ece6a?style=for-the-badge&amp;labelColor=1a1b26" alt="Open to Partnerships" />
     <img src="https://img.shields.io/badge/Students%20Taught-500%2B-7aa2f7?style=for-the-badge&amp;labelColor=1a1b26" alt="500+ students" />
