@@ -11,7 +11,7 @@
   </p>
 </div>
 <br/>
-## 👋 About
+##  About
  
 I build practical technology that saves people time and money: **AI-driven automation, data analytics, cloud solutions on AWS, machine learning and Flutter mobile apps**.
  
@@ -20,7 +20,7 @@ I also teach. **500+ students** have learned to build with these tools through m
 I'm **open to partnerships** on automation projects, data and AI solutions, cloud work and training programmes.
  
 <br/>
-## 🎯 What I Do
+##  What I Do
  
 <table>
   <tr>
