@@ -11,7 +11,7 @@
   </p>
 </div>
 <br/>
---
+
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=Glaxxen&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Mobile%20%7C%20Game%20Dev%20%7C%20Educator&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&width=900&lines=AI+Engineer+and+Automation+Builder;Full-Stack+with+Next.js+and+ASP.NET+Core;Games+with+Unity+%7C+Apps+with+Flutter;Cloud+solutions+on+AWS;Mentoring+500%2B+students+in+tech)](https://git.io/typing-svg)
